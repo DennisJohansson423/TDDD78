@@ -1,6 +1,6 @@
 # TDDD78
-Object-oriented programming and Java
-[Course Website](https://www.ida.liu.se/~TDDD78/)
+
+The [Course Website](https://www.ida.liu.se/~TDDD78/)
 
 ## What I Learned in This Course
 - Java
